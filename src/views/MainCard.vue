@@ -162,8 +162,8 @@
 
     <div class="footer">
       <p>
-        ©2025 Quenan |
-        <a href="https://github.com/wsjj-official/Simple-Homepage">仓库</a>
+        ©2026 <a href="https://github.com/QNquenan/Simple-Homepage" target="_blank" rel="noopener noreferrer">Quenan</a> | 
+    <a href="https://www.wsjj.top" target="_blank" rel="noopener noreferrer">网笙久久</a>
       </p>
     </div>
   </div>
