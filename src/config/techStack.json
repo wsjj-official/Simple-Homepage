@@ -9,8 +9,8 @@
       "name": "CSS"
     },
     {
-      "icon": "vscode-icons:file-type-light-js",
-      "name": "JavaScript"
+      "icon": "skill-icons:typescript",
+      "name": "TypeScript"
     },
     {
       "icon": "catppuccin:markdown-mdx",
@@ -21,28 +21,28 @@
       "name": "MySql"
     },
     {
-      "icon": "logos:php",
-      "name": "PHP"
+      "icon": "skill-icons:linux-light",
+      "name": "Linux"
     },
     {
       "icon": "material-icon-theme:python",
       "name": "Python"
     },
     {
-      "icon": "material-icon-theme:vue",
-      "name": "Vue"
+      "icon": "skill-icons:anaconda-light",
+      "name": "Anaconda"
     },
     {
-      "icon": "skill-icons:jquery",
-      "name": "Jquery"
+      "icon": "skill-icons:docker",
+      "name": "Docker"
     },
     {
-      "icon": "skill-icons:photoshop",
-      "name": "PhotoShop"
+      "icon": "skill-icons:vim-light",
+      "name": "Vim"
     },
     {
-      "icon": "devicon:xd",
-      "name": "XD"
+      "icon": "skill-icons:kubernetes",
+      "name": "Kubernetes"
     }
   ]
 }

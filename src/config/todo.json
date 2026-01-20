@@ -1,11 +1,11 @@
 {
   "todoList": [
     {
-      "text": "学会Java",
-      "checked": false
+      "text": "学会Linux",
+      "checked": true
     },
     {
-      "text": "学会粤语",
+      "text": "学会部署并训练大模型",
       "checked": false
     },
     {
@@ -13,8 +13,8 @@
       "checked": false
     },
     {
-      "text": "重构个人主页",
-      "checked": true
+      "text": "从事计算机行业",
+      "checked": false
     }
   ]
 }

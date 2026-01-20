@@ -163,7 +163,7 @@
     <div class="footer">
       <p>
         ©2025 Quenan |
-        <a href="https://github.com/QNquenan/Simple-Homepage">仓库</a>
+        <a href="https://github.com/wsjj-official/Simple-Homepage">仓库</a>
       </p>
     </div>
   </div>
